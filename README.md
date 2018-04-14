@@ -1,0 +1,2 @@
+# Quiz-Grading-HTML-Form-and-PHP-
+I built this project to utilize my knowledge on PHP. This is Quiz grading project. This will allow two user login (student and instructor). When an instructor made an entry about quiz that will be saved in the database back end using a unique course code so that when a student log in to take the quiz, the quiz will be pull out from the database and allow student to take the quiz. When the student finishes his/her quiz and submit it, this will send a text file of student's score to the instructor.
